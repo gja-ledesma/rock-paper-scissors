@@ -1,2 +1,11 @@
 # rock-paper-scissors
-Third project task for The Odin Project.
+The third project task in The Odin Project.
+
+<!-- 
+Visit this [site]() to see output.
+
+By completing this particular project, I have demonstrated:
+
+- 
+-
+-->
